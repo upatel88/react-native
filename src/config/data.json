@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "image": "./images/1.jpg",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "image": "/images/2.jpg",
+      "checked": false
+    }
+    
+  ]
+  
